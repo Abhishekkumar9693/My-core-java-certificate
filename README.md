@@ -1,1 +1,0 @@
-# My-core-java-certificate
